@@ -1,5 +1,0 @@
-# dune init proj day2
-# OCAMLPARAM: unset
-# Shared cache: disabled
-# Workspace root: /Users/ben/git/personal/Ocaml-Soup/2021/day2
-# Auto-detected concurrency: 8
